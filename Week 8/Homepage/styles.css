@@ -1,0 +1,27 @@
+.title
+{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+.bolden
+{
+    text-align: center;
+    font-weight: bold;
+}
+.column
+{
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+.buttons
+{
+    text-align: center;
+    font-size: 200px;
+    background-color: green;
+}
+.small
+{
+    font-size: 50px;
+}
